@@ -349,7 +349,7 @@ client.once('clientReady', async () => {
                 iconURL: LOGO
             })
 
-            .setTitle(' Shenzoe Communty ')
+            .setTitle(' Shenzoe Community ')
 
             .setThumbnail(LOGO)
 
